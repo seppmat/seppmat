@@ -1,5 +1,5 @@
 # About Me
-Hello, I am someone who's call Sepp.<br>I'm a novice programmer who is very interested in the world of programming and design.<br>Even though I'm not good at design, I'm still interested to learn it, also I'm very enthusiastic about the development of the times and the development of AI<br><br>Also Thank you for viewing my github
+Hello, I am someone who's call Sepp.<br>I'm a novice programmer who is very interested in the world of programming and design.<br>Even though I'm not good at design, I'm still interested to learn it, also I'm very enthusiastic about the development of the times and the development of AI.<br><br>Also Thank you for viewing my github.
 
 
 ## Socials
