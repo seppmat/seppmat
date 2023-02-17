@@ -14,6 +14,6 @@ Hello, I am someone who's call Sepp.<br>I'm a novice programmer who is very inte
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=seppmat&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Quroo.)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+![](https://gtce.itsvg.in/api?username=Quroo.)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-[!](https://visitcount.itsvg.in/api?id=seppmat&icon=7&color=7)
+![](https://visitcount.itsvg.in/api?id=seppmat&icon=7&color=7)
